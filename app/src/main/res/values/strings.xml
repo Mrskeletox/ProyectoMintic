@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">ProyectoMintic</string>
+    <string name="ciudad_de_la_eterna_primavera">Ciudad de la eterna primavera</string>
+    <string name="ciudad_promavera">Ciudad</string>
+    <string name="descripcion_medellin">Medellín es la capital de la provincia montañosa de Antioquia en Colombia y es apodada la \"Ciudad de la eterna primavera\" por su clima templado</string>
+    <string name="temperatura">Cuenta con una temperatura promedio de 27ºC</string>
+    <string name="titulo_interes">Puedes visitar los siguientes sitios de interes:</string>
+    <string name="planetario">-El planetario</string>
+    <string name="pueblito">-El pueblito paisa</string>
+    <string name="jardin">-Jardin botanico</string>
+    <string name="botero">-Plaza Botero</string>
+    <string name="boton_conocer">¡Conoce más!</string>
+    <string name="iamgen_cabeza">medellin</string>
+    <string name="temperatura_gota">gota</string>
+    <string name="brujula">brujula</string>
 </resources>
