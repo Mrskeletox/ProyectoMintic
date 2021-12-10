@@ -1,56 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
     xmlns:card_view="http://schemas.android.com/apk/res-auto"
     android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
     android:layout_margin="12dp"
-    card_view:cardBackgroundColor="#e2725b"
+    card_view:cardBackgroundColor="#E6755E"
     card_view:cardCornerRadius="20dp"
     card_view:cardElevation="6dp"
     card_view:contentPadding="4dp">
 
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="276dp"
         android:padding="16dp">
+
         <ImageView
+            android:id="@+id/item_image_vista"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:id="@+id/item_image"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:layout_marginEnd="16dp"
-            android:layout_marginRight="16dp"/>
+            android:contentDescription="@string/foto"
+            card_view:srcCompat="@drawable/plaza" />
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="El planetario"
-            android:textColor="@color/white"
             android:id="@+id/item_titulo"
-            android:textStyle="bold"
-            android:layout_toEndOf="@+id/item_image"
-            android:layout_toRightOf="@+id/item_image"
-            android:layout_alignParentTop="true"
-            android:textSize="25dp"/>
-
-        <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="El Planetario de Medellín Jesús Emilio Ramírez González ofrece a sus visitantes un escenario a la altura de los más modernos del mundo, con un domo digital para experiencias de inmersión de alta calidad. "
-            android:textColor="@color/white"
-            android:id="@+id/item_descripcion"
-            android:textStyle="bold"
-            android:layout_toEndOf="@+id/item_image"
-            android:layout_toRightOf="@+id/item_image"
-            android:layout_below="@+id/item_titulo"/>
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/item_image_vista"
+            android:text="@string/planetario"
+            android:textColor="#5D4037"
+            android:textSize="25sp"
+            android:textStyle="bold" />
 
+        <TextView
+            android:id="@+id/item_descripcion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/item_titulo"
+            android:layout_toEndOf="@+id/item_image_vista"
+            android:text="@string/item_descripcion"
+            android:textColor="#5D4037"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/item_calificacion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/item_descripcion"
+            android:layout_marginStart="37dp"
+            android:layout_marginTop="21dp"
+            android:layout_toEndOf="@+id/item_image_vista"
+            android:text="@string/item_calificacion"
+            android:textColor="#D3BB64"
+            android:textSize="16sp"
+            android:textStyle="bold" />
 
 
     </RelativeLayout>
-
-
 
 
 </androidx.cardview.widget.CardView>

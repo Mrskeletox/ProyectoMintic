@@ -1,0 +1,26 @@
+[
+  {
+    "nombre" : "El planetario",
+    "descripcion" : "El Planetario de Medellín Jesús Emilio Ramírez González ofrece a sus visitantes un escenario a la altura de los más modernos del mundo, con un domo digital para experiencias de inmersión de alta calidad.",
+    "calificacion" : "4.8 estrellas / 5 estrellas",
+    "urlPicture" : "https://i.ibb.co/WKCdgHG/1562018671-803189-1562019244-noticia-normal.jpg"
+  },
+  {
+    "nombre" :"Pueblito Paisa",
+    "descripcion" : "El Pueblito Paisa de Medellín es uno de los sitios turísticos más visitados de la ciudad que combina tres elementos que todos amamos: la tradición antioqueña que se refleja en las artesanías, gastronomía y arquitectura del lugar; la vista majestuosa de Medellín y las montañas que recorren el Valle de Aburrá.",
+    "calificacion" : "4.4 estrellas / 5 estrellas",
+    "urlPicture" : "https://i.ibb.co/yWvc1wR/cerro-nutibara-y-pueblito-paisa-797390.jpg"
+  },
+  {
+    "nombre" : "El jardin botanico",
+    "descripcion" : "Es un gran museo vivo ubicado en pleno corazón de la ciudad y su principal objetivo es crear experiencias de encuentro y convivencia para la ciudad",
+    "calificacion" : "4.7 estrellas / 5 estrellas",
+    "urlPicture" : "https://i.ibb.co/x7R9tb2/CREATOR-gd-jpeg-v1-0-using-IJG-JPEG-v62-quality-90.jpg"
+  },
+  {
+    "nombre" : "Plaza Botero",
+    "descripcion" : "La Plaza Botero es uno de los lugares con mayor riqueza patrimonial y arquitectónica que tiene Medellín, porque allí se encuentra el Museo de Antioquia y este lugar atesora 23 esculturas del maestro Fernando Botero",
+    "calificacion" : "4.3 estrellas / 5 estrellas",
+    "urlPicture" : "https://i.ibb.co/56W1f7w/plaza.jpg"
+  }
+]
