@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Medellin Viajera</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ciudad_de_la_eterna_primavera">Ciudad de la eterna primavera</string>
+    <string name="descripcion_medellin">Medellín es la capital de la provincia montañosa de Antioquia en Colombia y es apodada la \"Ciudad de la eterna primavera\" por su clima templado</string>
+    <string name="temperatura">Cuenta con una temperatura promedio de 27ºC</string>
+    <string name="titulo_interes">Puedes visitar los siguientes sitios de interes:</string>
+    <string name="planetario">-El planetario</string>
+    <string name="pueblito">-El pueblito paisa</string>
+    <string name="jardin">-Jardin botanico</string>
+    <string name="botero">-Plaza Botero</string>
+    <string name="boton_conocer">¡Conoce más!</string>
+    <string name="iamgen_cabeza">medellin</string>
+    <string name="temperatura_gota">gota</string>
+    <string name="brujula">brujula</string>
+    <string name="titulo_recycler">Lista de lugares de interes en Medellín</string>
+    <string name="item_descripcion">"El Planetario de Medellín Jesús Emilio Ramírez González ofrece a sus visitantes un escenario a la altura de los más modernos del mundo, con un domo digital para experiencias de inmersión de alta calidad. "</string>
+    <string name="item_calificacion">Calificación : 5 estrellas</string>
+    <string name="foto">foto</string>
+    <string name="planetario_view">El planetario</string>
+    <string name="descripcion_planetario">El Planetario de Medellín Jesús Emilio Ramírez González ofrece a sus visitantes un escenario a la altura de los más modernos del mundo, con un domo digital para experiencias de inmersión de alta calidad. Trocamos la mirada de los planetarios tradicionales hacia las ciencias del espacio, e incorporamos las ciencias de la tierra para observar, entre el pasmo y la esperanza, nuestro desconocido planeta.</string>
+    <string name="descripcion_planetario_nueva">"El Planetario de Medellín Jesús Emilio Ramírez González ofrece a sus visitantes un escenario a la altura de los más modernos del mundo, con un domo digital para experiencias de inmersión de alta calidad. "</string>
+    <string name="calificacion_planeario" />
+    <string name="calificacion_planetario_nuevo">Calificación: 4.8 estrellas</string>
+    <string name="estrella">estrella</string>
+
+    <!-- Sync Preferences -->
+    <string name="Notificaciones" />
+    <string name="notifications">Notificaciones</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tittle_list">Lista</string>
+    <string name="tittle_detail">Detalle</string>
+    <string name="tittle_preference">Preferencias</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="preferences">Preferencias</string>
+
+</resources>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ProyectoMintic</string>
+    <string name="app_name">Turismo</string>
     <string name="ciudad_de_la_eterna_primavera">Ciudad de la eterna primavera</string>
     <string name="descripcion_medellin">Medellín es la capital de la provincia montañosa de Antioquia en Colombia y es apodada la \"Ciudad de la eterna primavera\" por su clima templado</string>
     <string name="temperatura">Cuenta con una temperatura promedio de 27ºC</string>
@@ -16,4 +16,10 @@
     <string name="item_descripcion">"El Planetario de Medellín Jesús Emilio Ramírez González ofrece a sus visitantes un escenario a la altura de los más modernos del mundo, con un domo digital para experiencias de inmersión de alta calidad. "</string>
     <string name="item_calificacion">Calificación : 5 estrellas</string>
     <string name="foto">foto</string>
+    <string name="planetario_view">El planetario</string>
+    <string name="descripcion_planetario">El Planetario de Medellín Jesús Emilio Ramírez González ofrece a sus visitantes un escenario a la altura de los más modernos del mundo, con un domo digital para experiencias de inmersión de alta calidad. Trocamos la mirada de los planetarios tradicionales hacia las ciencias del espacio, e incorporamos las ciencias de la tierra para observar, entre el pasmo y la esperanza, nuestro desconocido planeta.</string>
+    <string name="descripcion_planetario_nueva">"El Planetario de Medellín Jesús Emilio Ramírez González ofrece a sus visitantes un escenario a la altura de los más modernos del mundo, con un domo digital para experiencias de inmersión de alta calidad. "</string>
+    <string name="calificacion_planeario" />
+    <string name="calificacion_planetario_nuevo">Calificación: 4.8 estrellas</string>
+    <string name="estrella">estrella</string>
 </resources>

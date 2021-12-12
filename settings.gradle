@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ProyectoMintic"
 include ':app'
+include ':turismo'
