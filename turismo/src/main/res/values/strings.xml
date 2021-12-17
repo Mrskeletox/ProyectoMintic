@@ -47,5 +47,6 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="preferences">Preferencias</string>
+    <string name="mapa">mapa</string>
 
 </resources>

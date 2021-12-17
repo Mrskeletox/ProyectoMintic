@@ -1,34 +1,52 @@
-[
+
+{
+  "lugares" : [
   {
     "nombre" : "El planetario",
     "descripcion" : "El Planetario de Medellín Jesús Emilio Ramírez González ofrece a sus visitantes un escenario a la altura de los más modernos del mundo, como su domo",
-    "calificacion" : "4.8 estrellas / 5 estrellas",
-    "urlPicture" : "https://cr00.epimg.net/radio/imagenes/2019/07/02/medellin/1562018671_803189_1562019244_noticia_normal.jpg"
+    "calificacion" : "Calificación: 4.8/5.0",
+    "urlPicture" : "https://cr00.epimg.net/radio/imagenes/2019/07/02/medellin/1562018671_803189_1562019244_noticia_normal.jpg",
+    "latitud" : 6.269388282962858,
+    "longitud" : -75.56591771722948,
+    "zoom" : 17
   },
   {
     "nombre" :"Pueblito Paisa",
-    "descripcion" : "El Pueblito Paisa de Medellín es uno de los sitios turísticos más visitados de la ciudad que combina tres elementos que todos amamos: tradicion, gastronomia y arquitectura, a la vez sus vistas increibles a medellin.",
-    "calificacion" : "4.4 estrellas / 5 estrellas",
-    "urlPicture" : "https://www.hotelbolivarianaplaza.com/wp-content/uploads/2020/02/16680610377_5ae971ff6b_b-1.jpg"
+    "descripcion" : "El Pueblito Paisa de Medellín es uno de los sitios turísticos más visitados de la ciudad que combina tres elementos que todos amamos: tradicion, gastronomia y arquitectura juntando sus vistas a Medellín",
+    "calificacion" : "Calificación: 4.4/ 5.0",
+    "urlPicture" : "https://www.hotelbolivarianaplaza.com/wp-content/uploads/2020/02/16680610377_5ae971ff6b_b-1.jpg",
+    "latitud" : 6.236334710344868,
+    "longitud" : -75.57990466564782,
+    "zoom" : 17
   },
   {
     "nombre" : "El jardin botanico",
     "descripcion" : "Es un gran museo vivo ubicado en pleno corazón de la ciudad y su principal objetivo es crear experiencias de encuentro y convivencia para la ciudad",
-    "calificacion" : "4.7 estrellas / 5 estrellas",
-    "urlPicture" : "https://cr00.epimg.net/radio/imagenes/2019/09/04/medellin/1567606849_457430_1567607759_noticia_normal.jpg"
+    "calificacion" : "Calificación: 4.7/5.0",
+    "urlPicture" : "https://cr00.epimg.net/radio/imagenes/2019/09/04/medellin/1567606849_457430_1567607759_noticia_normal.jpg",
+    "latitud" : 6.272230929300769,
+    "longitud" : -75.56369541722943,
+    "zoom": 17
   },
   {
     "nombre" : "Plaza Botero",
     "descripcion" : "La Plaza Botero es uno de los lugares con mayor riqueza patrimonial y arquitectónica que tiene Medellín, porque allí se encuentra el Museo de Antioquia y este lugar atesora 23 esculturas del maestro Fernando Botero",
-    "calificacion" : "4.3 estrellas / 5 estrellas",
-    "urlPicture" : "https://www.centropolismedellin.com/wp-content/uploads/2020/12/20-Plaza-botero.jpg"
+    "calificacion" : "Calificación: 4.3/5.0",
+    "urlPicture" : "https://www.centropolismedellin.com/wp-content/uploads/2020/12/20-Plaza-botero.jpg",
+    "latitud" : 6.252677025806199,
+    "longitud" : -75.56821235030442,
+    "zoom": 17
   },
   {
     "nombre": "Parque arvi",
     "descripcion": "Es una riqueza natural de Medellín. Fue declarado reserva forestal protectora en 1970. Es un espacio público que ofrece una gran variedad de experiencias para todos los gustos. ",
-    "calificacion": "4.7 estrellas/ 5 estrellas",
-    "urlPicture": "https://i2.wp.com/www.acimedellin.org/wp-content/uploads/2018/01/parque-arvi.jpg"
+    "calificacion": "Calificación: 4.7/5.0",
+    "urlPicture": "https://i.ibb.co/P4TxS0f/excelente-vista-parque-arvi-metrocable-9d0f817eabf4c17651ca099ac1f2d566.jpg",
+    "latitud" : 6.289353173544029,
+    "longitud" : -75.50935883257269,
+    "zoom" : 17
 
   }
 
-]
+  ]
+}

@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/navigation_list"
-        android:name="misiontic.proyectociclo4.turismo.list.ListFragment"
+        android:name="misiontic.proyectociclo4.turismo.ui.list.ListFragment"
         android:label="fragment_list"
         tools:layout="@layout/fragment_list" >
         <action
@@ -19,15 +19,27 @@
     </fragment>
     <fragment
         android:id="@+id/navigation_detail"
-        android:name="misiontic.proyectociclo4.turismo.detail.DetailFragment"
+        android:name="misiontic.proyectociclo4.turismo.ui.detail.DetailFragment"
         android:label="DetailFragment"
         tools:layout="@layout/fragment_detail">
         <argument
             android:name="lugar"
             app:argType="misiontic.proyectociclo4.turismo.model.LugaresItem" />
+        <action
+            android:id="@+id/action_navigation_detail_to_mapsFragment"
+            app:destination="@id/mapsFragment" />
     </fragment>
     <fragment
         android:id="@+id/navigation_preference"
-        android:name="misiontic.proyectociclo4.turismo.preference.SettingsFragment"
+        android:name="misiontic.proyectociclo4.turismo.ui.preference.SettingsFragment"
         android:label="SettingsFragment" />
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="misiontic.proyectociclo4.turismo.maps.MapsFragment"
+        android:label="fragment_maps"
+        tools:layout="@layout/fragment_maps" >
+        <argument
+            android:name="lugares"
+            app:argType="misiontic.proyectociclo4.turismo.model.LugaresItem" />
+    </fragment>
 </navigation>

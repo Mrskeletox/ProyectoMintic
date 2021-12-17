@@ -5,20 +5,16 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_margin="12dp"
-    card_view:cardBackgroundColor="#C44CAFC8"
+    card_view:cardBackgroundColor="#415FBAD1"
     card_view:cardCornerRadius="20dp"
     card_view:cardElevation="6dp"
     card_view:contentPadding="4dp">
 
-    <androidx.constraintlayout.widget.ConstraintLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-    </androidx.constraintlayout.widget.ConstraintLayout>
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="292dp"
+        android:layout_height="wrap_content"
+        android:background="#578DC1C8"
         android:padding="16dp">
 
         <ImageView
@@ -63,12 +59,12 @@
             android:layout_marginTop="21dp"
             android:layout_toEndOf="@+id/item_image_vista"
             android:text="@string/item_calificacion"
-            android:textColor="#FFEB3B"
+            android:textColor="#704FAA"
             android:textSize="16sp"
-            android:textStyle="bold" />
+            android:textStyle="bold|italic" />
 
 
     </RelativeLayout>
 
 
-</androidx.cardview.widget.CardView>
+ </androidx.cardview.widget.CardView>
